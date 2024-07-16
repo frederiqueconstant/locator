@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Locator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-06 09:15+0000\n"
+"PO-Revision-Date: 2022-12-22 14:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wp-locator"
+
+#: wp-locator.php:529 trash/wp-locator old.php:330
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+#: wp-locator.php:530 trash/wp-locator old.php:331
+msgid "Add New Location"
+msgstr "Neuen Standort hinzufügen"
+
+#: wp-locator.php:528 trash/wp-locator old.php:329
+msgctxt "Add New on Toolbar"
+msgid "Location"
+msgstr "Ort"
+
+#: wp-locator.php:527 trash/wp-locator old.php:328
+msgctxt "Admin Menu text"
+msgid "Locations"
+msgstr "Standorte"
+
+#: templates/parts/app.php:12 templates/parts/app.php:20
+#: templates/parts/app.php:28
+msgid "All"
+msgstr "Alles"
+
+#: front.php:23 wp-locator.php:534 trash/wp-locator old.php:335
+msgid "All Locations"
+msgstr "Alle Orte"
+
+#: templates/parts/app.php:25
+msgid "City"
+msgstr "Stadt"
+
+#: admin.php:72 templates/parts/app.php:17
+msgid "Country"
+msgstr "Land"
+
+#: admin.php:76
+msgid "Data"
+msgstr "Daten"
+
+#: admin.php:229
+msgid "Default category to show"
+msgstr "Standardkategorie zum Anzeigen"
+
+#: wp-locator.php:532 trash/wp-locator old.php:333
+msgid "Edit Location"
+msgstr "Standort bearbeiten"
+
+#: removed.php:140
+msgid "Filter By Custom Fields"
+msgstr "Filtern nach benutzerdefinierten Feldern"
+
+#: admin.php:75
+msgid "imported"
+msgstr "importiert"
+
+#: admin.php:216
+msgid "Location Settings"
+msgstr "Ortseinstellungen"
+
+#: wp-locator.php:531 trash/wp-locator old.php:332
+msgid "New Location"
+msgstr "Neuen Ort"
+
+#: wp-locator.php:538 trash/wp-locator old.php:339
+msgid "No Locations found in Trash."
+msgstr "Keine Standorte im Papierkorb gefunden."
+
+#: wp-locator.php:537 trash/wp-locator old.php:338
+msgid "No Locations found."
+msgstr "Keine Standorte gefunden."
+
+#: wp-locator.php:540 trash/wp-locator old.php:341
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into Location"
+msgstr "In Position einfügen"
+
+#: wp-locator.php:541 trash/wp-locator old.php:342
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this Location"
+msgstr "An diesen Ort hochgeladen"
+
+#: wp-locator.php:536 trash/wp-locator old.php:337
+msgid "Parent Locations:"
+msgstr "Übergeordnete Standorte:"
+
+#: admin.php:73
+msgid "Pickup"
+msgstr "Abholen"
+
+#: admin.php:71
+msgid "place_id"
+msgstr "place_id"
+
+#: wp-locator.php:525 trash/wp-locator old.php:326
+msgctxt "Post type general name"
+msgid "Locations"
+msgstr "Standorte"
+
+#: wp-locator.php:526 trash/wp-locator old.php:327
+msgctxt "Post type singular name"
+msgid "Location"
+msgstr "Ort"
+
+#: wp-locator.php:542 trash/wp-locator old.php:343
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Locations list"
+msgstr "Standortliste filtern"
+
+#: wp-locator.php:544 trash/wp-locator old.php:345
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Locations list"
+msgstr "Standortliste"
+
+#: wp-locator.php:543 trash/wp-locator old.php:344
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Locations list navigation"
+msgstr "Standortlistennavigation"
+
+#: wp-locator.php:535 trash/wp-locator old.php:336
+msgid "Search Locations"
+msgstr "Standorte suchen"
+
+#: templates/parts/app.php:18 templates/parts/app.php:26
+msgid "Search..."
+msgstr "Suche..."
+
+#: removed.php:156
+msgid "Value:"
+msgstr "Wert:"
+
+#: wp-locator.php:533 trash/wp-locator old.php:334
+msgid "View Location"
+msgstr "Standort anzeigen"
+
+#. Name of the plugin
+msgid "WP Locator"
+msgstr "WP-Locator"
